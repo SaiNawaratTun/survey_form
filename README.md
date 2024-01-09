@@ -5,9 +5,6 @@
 > Follow below instructions
 
 ```bash
-git clone git@github.com:ZaInformationTechnology/survey-collector.git
-```
-```bash
 composer install
 ```
 
